@@ -4,7 +4,7 @@
 
 ## Getting Involved
 
-Want to report a bug, request a feature, contribute to or translate Popcorn Time? Check out our in-depth guide to [Contributing to Popcorn Time](CONTRIBUTING.md#contributing-to-popcorn-time). We need all the help we can get! You can also join our [community](README.md#community) to keep up-to-date and meet other developers.
+Want to report a bug, request a feature, contribute to or translate MTI Streaming?  We need all the help we can get to keep up-to-date and meet other developers.
 
 ## Getting Started
 
@@ -26,8 +26,6 @@ If you encounter trouble with the above method, you can try:
 5. `yarn gulp run`
 
 Optionally, you may simply run `./make_popcorn.sh` if you are on a linux or mac based operating system.
-
-
 
 
 If you distribute a copy or make a fork of the project, you have to credit this project as the source.
