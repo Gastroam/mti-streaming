@@ -12,7 +12,7 @@ If you're comfortable getting up and running from a `git clone`, this method is 
 
 If you clone the GitHub repository, you will need to build a number of assets using grunt.
 
-The [master](https://github.com/popcorn-official/popcorn-desktop) branch which contains the latest release.
+The [master](https://github.com/gastroam/mti-streaming) branch which contains the latest release.
 
 #### Quickstart:
 
@@ -27,39 +27,8 @@ If you encounter trouble with the above method, you can try:
 
 Optionally, you may simply run `./make_popcorn.sh` if you are on a linux or mac based operating system.
 
-Full instructions & troubleshooting tips can be found in the [Contributing Guide](CONTRIBUTING.md#contributing-to-popcorn-time).
-
-<a name="community"></a>
-## Community
-
-Keep track of Popcorn Time development and community activity.
-
-* Follow Popcorn Time on [Twitter](https://twitter.com/popcorntimetv), [Facebook](https://www.facebook.com/PopcornTimeDotSh) and [Google+](https://plus.google.com/+popcorntimesh).
-* Read and subscribe to [The Official Popcorn Time Blog](http://blog.popcorntime.sh/).
-* Join in discussions on the [Popcorn Time Forum](https://discuss.popcorntime.sh/).
-
-## Screenshots
-![Popcorn Time](https://cloud.githubusercontent.com/assets/8317250/10714437/b1e1dc8c-7b32-11e5-9c25-d9fbd5b2f3bd.png)
-![Debugging Popcorn Time](https://cloud.githubusercontent.com/assets/8317250/10714430/add70234-7b32-11e5-9be7-1de539d865ba.png)
 
 
-## Versioning
-
-For transparency and insight into our release cycle, and for striving to maintain backward compatibility, Popcorn Time will be maintained according to the [Semantic Versioning](http://semver.org/) guidelines as much as possible.
-
-Releases will be numbered with the following format:
-
-`<major>.<minor>.<patch>-<build>`
-
-Constructed with the following guidelines:
-
-* A new *major* release indicates a large change where backward compatibility is broken.
-* A new *minor* release indicates a normal change that maintains backward compatibility.
-* A new *patch* release indicates a bugfix or small change which does not affect compatibility.
-* A new *build* release indicates this is a pre-release of the version.
-
-
-***
 
 If you distribute a copy or make a fork of the project, you have to credit this project as the source.
 
@@ -71,4 +40,4 @@ You should have received a copy of the GNU General Public License along with thi
 
 ***
 
-Copyright © 2019 Popcorn Time Project - Released under the [GPL v3 license](LICENSE.txt).
+Copyright © 2019 MTi Streaming Project - Released under the [GPL v3 license](LICENSE.txt).
